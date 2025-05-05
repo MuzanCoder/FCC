@@ -1,0 +1,12 @@
+{
+    "name": "pokemon-app",
+    "version": "1.0.0",
+    "description": "A simple Pokémon search app using HTML, CSS, and JavaScript",
+    "main": "index.html",
+    "scripts": {
+      "start": "echo 'No build needed'"
+    },
+    "author": "Sandeep Prajapati",
+    "license": "MIT"
+  }
+  
